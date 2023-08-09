@@ -1,1 +1,1 @@
-# mausum
+The app is developed using React.js which fetches and displays up-to-date weather data using the OpenWeatherMap API, providing accurate real-time weather information for various locations around the world.
